@@ -5,5 +5,5 @@ function setup(){
 
 function draw(){
   textSize(20)
-  text("test",mouseX,mousY)
+  text("test",mouseX,mouseY)
 }
